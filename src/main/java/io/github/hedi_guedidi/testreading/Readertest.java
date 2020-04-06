@@ -19,7 +19,6 @@ public class Readertest {
 	
 	public static void main(String[] args) throws Exception{
 		
-		ODSReader reader;
 		SpreadsheetDocument document = null;
 		Table sheet = null;
 		Cell cell;
